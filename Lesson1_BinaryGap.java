@@ -16,9 +16,8 @@ class Solution {
         				break;
         			}
         		}
-    			if(visible && max < iCnt) {
+    			if(visible && max < iCnt)
     				max = iCnt;
-    			}
         	}
         }
         return max;
