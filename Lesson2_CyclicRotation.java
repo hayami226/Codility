@@ -1,6 +1,4 @@
-
 // https://app.codility.com/demo/results/trainingUSRB4R-7T5/
-
 class Solution02 {
     public int[] solution(int[] A, int K) {
     	if(A.length == K)
@@ -13,17 +11,5 @@ class Solution02 {
     		A = tmp;
     	}
     	return A;
-    }
-}
-
-public class Lesson2_CyclicRotation {
-    public static void main(String args[]){
-    	Solution02 sol = new Solution02();
-    	int[] A = {3, 8, 9, 7, 6};
-    	int K = 3;
-    	int[] result = sol.solution(A, K);
-    	
-    	for(int num : result)
-    		System.out.println(num);
     }
 }
