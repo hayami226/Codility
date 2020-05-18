@@ -18,7 +18,7 @@ class Solution {
         				break;
         			}
         		}
-    			if( visible && max < iCnt ) {
+    			if(visible && max < iCnt) {
     				max = iCnt;
     			}
         	}
@@ -34,6 +34,6 @@ class Solution {
 public class Question01 {
     public static void main(String args[]){
     	Solution sol = new Solution();
-    	System.out.println( String.valueOf(sol.solution(10000)) );
+    	System.out.println(String.valueOf(sol.solution(10000000100101)));
     }
 }
