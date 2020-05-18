@@ -34,6 +34,6 @@ class Solution {
 public class Lesson1_BinaryGap {
     public static void main(String args[]){
     	Solution sol = new Solution();
-    	System.out.println( String.valueOf(sol.solution(100001010)) );
+    	System.out.println(String.valueOf(sol.solution(100001010)));
     }
 }
