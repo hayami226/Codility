@@ -1,6 +1,4 @@
-
 //https://app.codility.com/demo/results/trainingNB29YA-NP9/
-
 class Solution {
     public int solution(int N) {
         String binary = Integer.toBinaryString(N);
@@ -28,12 +26,5 @@ class Solution {
     
     public String gerString(String str, int idx) {
     	return String.valueOf(str.charAt(idx));
-    }
-}
-
-public class Lesson1_BinaryGap {
-    public static void main(String args[]){
-    	Solution sol = new Solution();
-    	System.out.println(String.valueOf(sol.solution(100001010)));
     }
 }
