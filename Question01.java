@@ -34,6 +34,6 @@ class Solution {
 public class Question01 {
     public static void main(String args[]){
     	Solution sol = new Solution();
-    	System.out.println(String.valueOf(sol.solution(10000000100101)));
+    	System.out.println(String.valueOf(sol.solution(100001010)));
     }
 }
