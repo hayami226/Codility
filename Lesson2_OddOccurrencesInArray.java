@@ -12,11 +12,3 @@ class Solution03 {
     	return -1;
     }
 }
-
-public class Lesson2_OddOccurrencesInArray {
-    public static void main(String args[]){
-    	Solution03 sol = new Solution03();
-    	int[] A = {1,1,11,2,2,3,7,8,3,7,8,9,7,13,9,7,6,5,6,5,4,3,4,3,11};
-    	System.out.println(sol.solution(A));
-    }
-}
