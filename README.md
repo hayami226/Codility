@@ -5,6 +5,7 @@
 
 ### Lesson 2 Arrays
 ● [CyclicRotation](https://github.com/hayami226/Codility/blob/master/Lesson2_CyclicRotation.java)
+
 ● [OddOccurrencesInArray](https://github.com/hayami226/Codility/blob/master/Lesson2_OddOccurrencesInArray.java)
 
 ### Lesson 3 Time Complexity
