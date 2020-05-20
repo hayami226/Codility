@@ -8,6 +8,7 @@
 ● [OddOccurrencesInArray](https://github.com/hayami226/Codility/blob/master/Lesson2_OddOccurrencesInArray.java)
 
 ### Lesson 3 Time Complexity
-● [FrogJmp](https://github.com/hayami226/Codility/blob/master/Lesson3_FrogJmp.java)
+● [FrogJmp](https://github.com/hayami226/Codility/blob/master/Lesson3_FrogJmp.java)  
+● [PermMissingElem](https://github.com/hayami226/Codility/blob/master/Lesson3_PermMissingElem.java)
 
 
