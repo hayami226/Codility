@@ -9,7 +9,7 @@
 
 ### Lesson 3 Time Complexity
 ● [FrogJmp](https://github.com/hayami226/Codility/blob/master/Lesson3_FrogJmp.java)  
-● [PermMissingElem](https://github.com/hayami226/Codility/blob/master/Lesson3_PermMissingElem.java)
-● [TapeEquilibrium](https://github.com/hayami226/Codility/blob/master/Lesson3_TapeEquilibrium)
+● [PermMissingElem](https://github.com/hayami226/Codility/blob/master/Lesson3_PermMissingElem.java)  
+● [TapeEquilibrium](https://github.com/hayami226/Codility/blob/master/Lesson3_TapeEquilibrium)  
 
 
