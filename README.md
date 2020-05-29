@@ -14,5 +14,6 @@
 
 ### Lesson 4 Counting Elements
 ● [FrogRiverOne](https://github.com/hayami226/Codility/blob/master/Lesson4_FrogRiverOne.java)  
+● [MaxCounters](https://github.com/hayami226/Codility/blob/master/Lesson4_MaxCounters.java)  
 
 
