@@ -1,6 +1,6 @@
 //https://app.codility.com/demo/results/trainingT8R2GS-4N4/
 import java.util.*;
-class Solution02 {
+class Solution09 {
 	public int solution(int[] A) {
 		Arrays.sort(A);		
 		if(Arrays.binarySearch(A, 1) < 0)
