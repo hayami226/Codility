@@ -16,6 +16,9 @@
 ● [FrogRiverOne](https://github.com/hayami226/Codility/blob/master/Lesson4_FrogRiverOne.java)  
 ● [MaxCounters](https://github.com/hayami226/Codility/blob/master/Lesson4_MaxCounters.java)  
 ● [MissingInteger](https://github.com/hayami226/Codility/blob/master/Lesson4_MissingInteger.java)  
-● [PermCheck](https://github.com/hayami226/Codility/blob/master/Lesson4_PermCheck.java)  
+● [PermCheck](https://github.com/hayami226/Codility/blob/master/Lesson4_PermCheck.java)
+
+### Lesson 5 Prefix Sums
+● [CountDiv](https://github.com/hayami226/Codility/blob/master/Lesson5_CountDiv.java)  
 
 
