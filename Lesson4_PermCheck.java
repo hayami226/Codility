@@ -1,6 +1,6 @@
 //https://app.codility.com/demo/results/trainingDEPWJG-KPD/
 import java.util.*;
-class Solution03 {
+class Solution10 {
 	public int solution(int[] A) {
 		Arrays.sort(A);		
 		for(int i = 0; i < A.length; i++) {
