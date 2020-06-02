@@ -1,5 +1,5 @@
 //https://app.codility.com/demo/results/trainingNBDR8S-N5V/
-class Solution {
+class Solution08 {
 	public int[] solution(int N, int[] A) {
 		int max = 0;
 		int sumMax = 0;		
